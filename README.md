@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Krunal.</h1>
 <h3 align="center">I'm from computer engineering and a passionate frontend developer from India.</h3>
 
-- 🌱 I’m currently learning **Next.js**
+- 🌱 I’m currently learning **Node.js**
 
 - 📫 How to reach me **kru.dipnil@gmail.com**
 
