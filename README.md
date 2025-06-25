@@ -45,7 +45,4 @@
 
 <p>&nbsp;<img align="center" height="180em" src="https://github-readme-stats.vercel.app/api?username=Krunal2206&show_icons=true&locale=en&theme=radical" alt="Krunal2206" /></p>
 
-<p><img align="center" height="180em" src="https://github-readme-streak-stats.herokuapp.com/?user=Krunal2206&theme=radical" alt="Krunal2206" /></p>
-
-
 <img src="https://raw.githubusercontent.com/Trilokia/Trilokia/379277808c61ef204768a61bbc5d25bc7798ccf1/bottom_header.svg" />
